@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/movie.mjs": {
-      "runtime": "nodejs18.x"
-    }
-  }
-}
